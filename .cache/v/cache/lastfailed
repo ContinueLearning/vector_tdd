@@ -1,1 +1,5 @@
-{}
+{
+  "test/test_vector.py::test_norm": true,
+  "test/test_vector.py::test_scale": true,
+  "test/test_vector.py::test_unit_vector": true
+}
